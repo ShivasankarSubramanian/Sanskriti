@@ -11,7 +11,7 @@ export const metadata: Metadata = constructMetadata({
 
 const pageConfig = {
   heroActions: [
-    { text: "Apply for Kindergarten Admission", href: "/contact" },
+    { text: "Schedule a Campus Tour", href: "/contact" },
     { text: "Read FAQ", href: "/faq" },
   ],
   heroCallout: {
@@ -22,7 +22,7 @@ const pageConfig = {
     eyebrow: "Kindergarten Growth",
     title: "Structure, warmth, and readiness in one steady day.",
     description:
-      "Parents can quickly see how the kindergarten years build confidence, habits, and emotional comfort.",
+      "Parents can quickly see how kindergarten builds confidence, habits, and emotional comfort.",
     assurances: [
       {
         icon: "ShieldCheck",

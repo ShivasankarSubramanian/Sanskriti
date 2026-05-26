@@ -5,7 +5,6 @@ import {
   Blocks,
   BookOpenCheck,
   HeartHandshake,
-  MapPin,
   Palette,
   School,
   ShieldCheck,
@@ -29,62 +28,45 @@ const whoWeAreBullets: {
 }[] = [
   {
     icon: Smile,
-    text: "Warm, welcoming mornings that help children settle with confidence.",
+    text: "Warm mornings that help children settle with confidence.",
     className: "border-gold-line bg-gold-mist text-gold-ink",
   },
   {
     icon: Palette,
-    text: "Play-based learning that gently builds speech, creativity, and social skills.",
+    text: "Play-based learning that builds speech, creativity, and social skills.",
     className: "border-sky-line bg-sky-mist text-sky-ink",
   },
   {
     icon: ShieldCheck,
-    text: "A secure campus supported by caring teachers and a structured routine.",
+    text: "A secure campus with caring teachers and a steady routine.",
     className: "border-mint-line bg-mint-mist text-mint-ink",
-  },
-  {
-    icon: MapPin,
-    text: "Convenient location for families from Velachery, Guindy, and nearby neighborhoods.",
-    className: "border-peach-line bg-peach-mist text-peach-ink",
   },
 ];
 
 const programLinks = [
   {
-    title: "Preschool in Velachery",
+    title: "Preschool & Nursery",
     description:
-      "A fuller look at our preschool environment, learning approach, and family experience.",
+      "A gentle start for early learners building routine, confidence, and joyful classroom habits.",
     href: "/preschool-in-velachery",
   },
   {
-    title: "Daycare in Velachery",
+    title: "Daycare",
     description:
-      "Information for parents balancing reliable care, daily routine, and convenience.",
+      "Warm, reliable daycare support for working families who need a safe and steady daily routine.",
     href: "/daycare-in-velachery",
   },
   {
-    title: "Kindergarten in Velachery",
+    title: "Junior KG & Senior KG",
     description:
-      "How we support children moving into more confident and independent learning.",
+      "Structured, child-friendly learning that builds confidence, communication, and school readiness.",
     href: "/kindergarten-in-velachery",
   },
   {
-    title: "Play School in Velachery",
+    title: "Play Group & Play School",
     description:
-      "A gentle introduction to group learning for younger children and first-time school families.",
+      "A soft first school experience with songs, stories, play, and caring teacher support.",
     href: "/play-school-in-velachery",
-  },
-  {
-    title: "Preschool Near Guindy",
-    description:
-      "A nearby option for Guindy families considering a Velachery preschool setting.",
-    href: "/preschool-near-guindy",
-  },
-  {
-    title: "Daycare Near Guindy",
-    description:
-      "Guidance for working families looking for daycare access close to Guindy and Velachery.",
-    href: "/daycare-near-guindy",
   },
 ];
 
@@ -93,8 +75,6 @@ const programAccents = [
   "border-sky-line bg-sky-mist text-sky-ink",
   "border-gold-line bg-gold-mist text-gold-ink",
   "border-peach-line bg-peach-mist text-peach-ink",
-  "border-lavender-line bg-lavender-mist text-lavender-ink",
-  "border-coral-line bg-coral-mist text-coral-ink",
 ] as const;
 
 const programIcons = [
@@ -102,8 +82,6 @@ const programIcons = [
   HeartHandshake,
   BookOpenCheck,
   Blocks,
-  School,
-  ShieldCheck,
 ] as const;
 
 const whyItems: {
@@ -116,21 +94,21 @@ const whyItems: {
     icon: ShieldCheck,
     title: "Safe Environment",
     description:
-      "Fully secured campus with CCTV, trained staff, and child-safe facilities.",
+      "Secure campus with CCTV, trained staff, and child-safe spaces.",
     className: "border-amber-100 bg-amber-50 text-amber-700",
   },
   {
     icon: Users,
     title: "Experienced Teachers",
     description:
-      "Dedicated educators with years of experience in early childhood development.",
+      "Caring educators experienced in early childhood development.",
     className: "border-teal-100 bg-teal-50 text-teal-700",
   },
   {
     icon: Smile,
     title: "Fun Learning",
     description:
-      "Play-based curriculum that sparks imagination and builds foundational skills.",
+      "Play-based learning that builds imagination and core skills.",
     className: "border-sky-100 bg-sky-50 text-sky-700",
   },
 ];
@@ -138,7 +116,7 @@ const whyItems: {
 const quickStats = [
   { value: "2012", label: "Nurturing children since" },
   { value: "1:6", label: "Playgroup care ratio" },
-  { value: "3", label: "Core early-years programs" },
+  { value: "500+", label: "Admissions supported" },
 ];
 
 function SectionIntro({
@@ -203,21 +181,19 @@ export default function Home() {
               <SectionIntro
                 badge="Who We Are"
                 title="Best Preschool in Velachery, Chennai"
-                description="Families looking for a preschool in Velachery usually want more than a classroom. They want a place where children feel welcomed each morning, teachers guide them patiently, and early learning feels joyful instead of pressured."
+                description="A warm preschool in Velachery where children feel safe, happy, and ready to learn."
                 accent="mint"
               />
 
               <div className="text-forest-soft mt-7 space-y-4 text-base leading-8 font-semibold">
                 <p>
-                  At Sanskriti Kindergarten, our programs are shaped around the
-                  needs of young children who are learning to explore,
-                  communicate, build friendships, and grow in confidence.
+                  Sanskriti Kindergarten nurtures curiosity, friendships, and
+                  confident early learning through caring daily routines.
                 </p>
                 <p>
-                  We support preschool, kindergarten, play school, and daycare
-                  in Velachery with a play-based approach that encourages
-                  curiosity, language development, movement, creativity, and
-                  everyday independence.
+                  We offer preschool, kindergarten, play school, and daycare
+                  with a play-based approach that supports language,
+                  creativity, movement, and independence.
                 </p>
               </div>
 
@@ -288,8 +264,9 @@ export default function Home() {
       <section className="bg-[linear-gradient(180deg,#fff8de_0%,#fff5e7_100%)] py-16 md:py-24">
         <div className="container mx-auto px-6">
           <SectionIntro
-            badge="Explore Programs"
-            title="A trusted preschool choice for families across Velachery and nearby neighborhoods."
+            badge="Explore Programmes"
+            title="Programmes for every stage of your child's early years."
+            description="Start with the core options most parents compare first."
             align="center"
             accent="gold"
             titleClassName="mx-auto max-w-4xl text-3xl md:text-5xl"
@@ -334,7 +311,7 @@ export default function Home() {
             <SectionIntro
               badge="Why Families Choose Us"
               title="Warm, secure, and joyful early learning."
-              description="The school day is designed to feel calm, caring, and active, with a balance of safety, teacher attention, and meaningful play."
+              description="Every school day balances safety, caring teachers, and meaningful play."
             />
 
             <div className="grid gap-4 md:grid-cols-3">
@@ -373,8 +350,8 @@ export default function Home() {
             }}
             badge="Admissions Open"
             title="Give your child a joyful start to learning."
-            description="Visit our Velachery campus and experience the calm, caring environment behind the learning journey."
-            primaryAction={{ text: "Start Admissions", href: "/admissions" }}
+            description="Visit our Velachery campus and see the calm, caring rhythm in person."
+            primaryAction={{ text: "Schedule a Campus Tour", href: "/contact" }}
             secondaryAction={{ text: "View Curriculum", href: "/curriculum" }}
             accent="mint"
           />

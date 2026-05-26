@@ -332,6 +332,18 @@ function ActivityListSection({
 }
 
 export default function CurriculumPage() {
+  const heroHighlightsGridClassName =
+    content.hero.highlights.length <= 3
+      ? "sm:grid-cols-2 xl:grid-cols-3"
+      : "sm:grid-cols-2 xl:grid-cols-4";
+  const cigmaPillarsGridClassName =
+    content.cigma.pillars.length <= 3
+      ? "sm:grid-cols-2 xl:grid-cols-3"
+      : "sm:grid-cols-2 xl:grid-cols-4";
+  const developmentGridClassName =
+    content.developmentSpheres.items.length <= 6
+      ? "sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3"
+      : "sm:grid-cols-2 lg:grid-cols-3";
   return (
     <main className="font-rounded-body bg-sage-mist text-forest-dark min-h-screen overflow-hidden">
       <HeroBanner
@@ -359,9 +371,11 @@ export default function CurriculumPage() {
               {content.hero.subtitle}
             </p>
 
-            <p className="hero-subheading text-premium-ink mt-6 max-w-[32rem] drop-shadow-[0_3px_12px_rgb(255_255_255_/_90%)] md:text-xl">
-              {content.hero.description}
-            </p>
+            {content.hero.description ? (
+              <p className="hero-subheading text-premium-ink mt-6 max-w-[32rem] drop-shadow-[0_3px_12px_rgb(255_255_255_/_90%)] md:text-xl">
+                {content.hero.description}
+              </p>
+            ) : null}
 
             <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:flex-wrap">
               <Button
@@ -387,7 +401,7 @@ export default function CurriculumPage() {
 
       <section className="relative z-20 -mt-16 pb-16 md:-mt-20 md:pb-24">
         <div className="container mx-auto px-6">
-          <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+          <div className={`grid gap-4 ${heroHighlightsGridClassName}`}>
             {content.hero.highlights.map((item, index) => {
               const Icon = getIcon(item.icon);
 
@@ -441,7 +455,7 @@ export default function CurriculumPage() {
             ))}
           </div>
 
-          <div className="mt-8 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+          <div className={`mt-8 grid gap-4 ${cigmaPillarsGridClassName}`}>
             {content.cigma.pillars.map((pillar, index) => {
               const Icon = getIcon(pillar.icon);
 
@@ -646,16 +660,14 @@ export default function CurriculumPage() {
             </div>
           </div>
 
-          <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className={`mt-8 grid gap-4 ${developmentGridClassName}`}>
             {content.developmentSpheres.items.map((item, index) => {
               const Icon = getIcon(item.icon);
 
               return (
                 <article
                   key={item.title}
-                  className={`border-premium-line shadow-premium-sm rounded-[1.25rem] border bg-white p-6 ${
-                    index === 6 ? "lg:col-span-3" : ""
-                  }`}
+                  className="border-premium-line shadow-premium-sm rounded-[1.25rem] border bg-white p-6"
                 >
                   <div className="flex gap-4">
                     <div

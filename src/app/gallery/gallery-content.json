@@ -10,7 +10,7 @@
       "highlight": "beautifully",
       "line2": "remembered"
     },
-    "subtitle": "A warm look at the learning, play, celebrations, friendships, and everyday confidence growing inside Sanskriti Kindergarten.",
+    "subtitle": "A warm look at learning, play, celebrations, and confidence growing inside Sanskriti Kindergarten.",
     "image": {
       "src": "/images/gallery-hero-banner.jpeg",
       "alt": "A warm kindergarten gallery wall with photos of children learning and playing"
@@ -21,7 +21,7 @@
         "link": "#gallery-media"
       },
       "secondary": {
-        "text": "Visit Us",
+        "text": "Book a Visit",
         "link": "/contact"
       }
     }
@@ -32,7 +32,7 @@
       "line1": "A closer look at",
       "highlight": "school life"
     },
-    "description": "Switch between images and videos to explore the spaces, activities, and child-centered experiences that shape our school day.",
+    "description": "Browse images and videos to explore the spaces and moments that shape our school day.",
     "tabs": {
       "images": "Images",
       "videos": "Videos"
@@ -157,9 +157,9 @@
   ],
   "cta": {
     "title": "Come see the warmth in person.",
-    "description": "Photos show the moments. A visit helps you feel the rhythm, care, and calm of the school day.",
+    "description": "Photos show the moments. A visit helps you feel the care and calm of the school day.",
     "button": {
-      "text": "Contact Us",
+      "text": "Schedule a Campus Tour",
       "link": "/contact"
     }
   }

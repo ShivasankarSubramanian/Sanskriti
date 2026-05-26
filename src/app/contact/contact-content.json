@@ -9,9 +9,9 @@
   },
   "contact": {
     "address": "No. 20B, Cart Track Road, Gopalakrishnan Street, Opposite Kala Flats, Chennai, Tamil Nadu 600032",
-    "phone": "+91 78455 19020",
+    "phone": "+91 99411 48333",
     "email": "sanskritivelachery@gmail.com",
-    "hours": "Mon-Fri: 9 AM to 6 PM"
+    "hours": "Mon-Sat: 9 AM to 6 PM"
   },
   "hero": {
     "badge": "Contact Sanskriti",
@@ -21,8 +21,8 @@
       "word2": "From",
       "word3": "You!"
     },
-    "subtitle": "Have a question, want to schedule a visit, or learn more about our preschool?",
-    "subtitleHighlight": "We're here to help!",
+    "subtitle": "Questions about admissions, programs, or visits?",
+    "subtitleHighlight": "We're here to help.",
     "image": {
       "src": "/images/contact-banner.jpeg",
       "alt": "Happy children playing"
@@ -31,12 +31,12 @@
   "detailsSection": {
     "badge": "Contact details",
     "title": "Talk to us before you visit.",
-    "description": "Our team can help with admission questions, tour availability, school hours, and the right program for your child.",
+    "description": "Our team can help with admissions, tour availability, school hours, and the right program for your child.",
     "image": {
       "src": "/images/contact-hero-sanskriti-reception.png",
       "alt": "Children learning in a warm Sanskriti classroom"
     },
-    "callout": "Private campus tours are available on weekdays."
+    "callout": "Weekday campus tours are available by appointment."
   },
   "contactDetails": [
     {
@@ -89,7 +89,7 @@
     "title": "Ready to visit?",
     "text": "Call us to schedule a guided tour and meet our teachers.",
     "button": {
-      "text": "Book a tour"
+      "text": "Book a Visit"
     }
   },
   "mapSection": {

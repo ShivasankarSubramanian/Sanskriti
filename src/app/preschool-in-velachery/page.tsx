@@ -11,7 +11,7 @@ export const metadata: Metadata = constructMetadata({
 
 const pageConfig = {
   heroActions: [
-    { text: "Enquire for Admissions", href: "/contact" },
+    { text: "Book a Visit", href: "/contact" },
     { text: "View Curriculum", href: "/curriculum" },
   ],
   heroCallout: {
@@ -22,7 +22,7 @@ const pageConfig = {
     eyebrow: "Preschool Care",
     title: "A clear, calm way to understand the Sanskriti experience.",
     description:
-      "Parents can scan the page like a campus visit: first the feeling, then the learning, then the location fit.",
+      "Parents can quickly scan the feeling, learning approach, and location fit.",
     assurances: [
       {
         icon: "ShieldCheck",

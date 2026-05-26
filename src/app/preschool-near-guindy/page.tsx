@@ -11,7 +11,7 @@ export const metadata: Metadata = constructMetadata({
 
 const pageConfig = {
   heroActions: [
-    { text: "Apply for Preschool Admission", href: "/contact" },
+    { text: "Book a Visit", href: "/contact" },
     { text: "Read FAQ", href: "/faq" },
   ],
   heroCallout: {

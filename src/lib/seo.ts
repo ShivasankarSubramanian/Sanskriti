@@ -19,7 +19,7 @@ export const siteConfig = {
     latitude: 13.0135,
     longitude: 80.2173,
   },
-  phone: "+91 78455 19020",
+  phone: "+91 99411 48333",
   email: "sanskritivelachery@gmail.com",
 };
 

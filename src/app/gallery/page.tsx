@@ -85,17 +85,6 @@ export default function GalleryPage() {
             <p className="text-forest-muted mx-auto mt-4 max-w-2xl text-base leading-7 font-semibold md:text-lg md:leading-8">
               {content.media.description}
             </p>
-            <div className="mx-auto mt-7 flex max-w-xl flex-wrap justify-center gap-3">
-              <span className="border-mint-line bg-mint-mist text-mint-ink rounded-full border px-4 py-2 text-xs font-black uppercase">
-                Classroom moments
-              </span>
-              <span className="border-gold-line bg-gold-mist text-gold-ink rounded-full border px-4 py-2 text-xs font-black uppercase">
-                Celebrations
-              </span>
-              <span className="border-peach-line bg-peach-mist text-peach-ink rounded-full border px-4 py-2 text-xs font-black uppercase">
-                Play and movement
-              </span>
-            </div>
           </div>
 
           <div className="mt-12">

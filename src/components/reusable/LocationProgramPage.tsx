@@ -154,7 +154,9 @@ export default function LocationProgramPage({
   heroCallout,
   experience,
 }: LocationProgramPageProps) {
-  const ctaActions = getCtaActions(content);
+  const ctaActions = getCtaActions(content).slice(0, 2);
+  const highlightsGridClassName =
+    content.highlights.length <= 2 ? "md:grid-cols-2" : "md:grid-cols-3";
   const primaryCtaAction = ctaActions[0] ?? {
     text: "Contact Us",
     href: "/contact",
@@ -233,7 +235,7 @@ export default function LocationProgramPage({
 
       <section className="relative z-10 -mt-6 box-border pb-10 md:-mt-10 md:pb-14">
         <div className="mx-auto box-border w-full max-w-7xl px-6">
-          <div className="grid min-w-0 gap-4 md:grid-cols-3">
+          <div className={`grid min-w-0 gap-4 ${highlightsGridClassName}`}>
             {content.highlights.map((item, index) => {
               const Icon = getIcon(highlightIconNames[index]);
 

@@ -414,7 +414,7 @@ export default function AboutPage() {
                   {teacher.achievement ? (
                     <div>
                       <p className="text-xs font-black tracking-[0.2em] uppercase">
-                        Achievement
+                        About
                       </p>
                       <p className="text-forest-soft mt-2 text-sm leading-6 font-semibold">
                         {teacher.achievement}
@@ -443,7 +443,7 @@ export default function AboutPage() {
             </p>
           </div>
 
-          <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-6">
+          <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-2">
             {content.values.items.map((item, index) => {
               const Icon = valueIconMap[item.icon as ValueIcon];
 
@@ -451,8 +451,7 @@ export default function AboutPage() {
                 <article
                   key={item.title}
                   className={cn(
-                    "shadow-forest-value group hover:shadow-forest-card relative overflow-hidden rounded-[2rem] border p-8 transition-all duration-300 hover:-translate-y-1.5 lg:col-span-2",
-                    (index === 0 || index === 5) && "lg:col-span-3",
+                    "shadow-forest-value group hover:shadow-forest-card relative overflow-hidden rounded-[2rem] border p-8 transition-all duration-300 hover:-translate-y-1.5",
                     valueColorClasses[index % valueColorClasses.length]
                   )}
                 >

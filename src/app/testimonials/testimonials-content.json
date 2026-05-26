@@ -10,7 +10,7 @@
       "highlight": "you can trust",
       "line2": ""
     },
-    "subtitle": "Discover the voices of families who trust Sanskriti for thoughtful care, joyful learning, and real growth.",
+    "subtitle": "Hear from families who trust Sanskriti for caring teachers, joyful learning, and real growth.",
     "image": {
       "src": "/images/testimonials.jpeg",
       "alt": "Children enjoying a premium kindergarten classroom"
@@ -29,7 +29,7 @@
   "testimonialsSection": {
     "badge": "Parent Stories",
     "title": "Real families. Trusted experiences.",
-    "subtitle": "Hear why parents choose Sanskriti for safe, engaging, and nurturing early education."
+    "subtitle": "Why families choose Sanskriti for safe, joyful, nurturing early education."
   },
   "testimonials": [
     {
@@ -59,7 +59,7 @@
   ],
   "cta": {
     "title": "Discover how Sanskriti nurtures every child.",
-    "description": "Reach out to explore our premium learning environment and meet the educators who guide your child with care and confidence.",
+    "description": "Reach out to explore our premium learning environment and meet the educators who guide children with care and confidence.",
     "button": {
       "text": "Schedule a Visit",
       "link": "/contact"

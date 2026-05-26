@@ -10,36 +10,31 @@
       "highlight": "Curriculum"
     },
     "subtitle": "Playful learning for confident early years.",
-    "description": "A child-centered curriculum that builds thinking, expression, movement, and creativity through joyful everyday experiences.",
+    "description": "",
     "image": {
       "src": "/images/curriculum-hero-banner.png",
       "alt": "Children exploring classroom learning materials at Sanskriti Kindergarten"
     },
     "buttons": {
       "primary": {
-        "text": "Enquire for Admissions",
+        "text": "Talk to Our Team",
         "link": "/contact"
       },
       "secondary": {
-        "text": "Contact Us",
+        "text": "Book a Visit",
         "link": "/contact"
       }
     },
     "highlights": [
       {
-        "icon": "Blocks",
-        "title": "Child-Centered Learning",
-        "description": "Each learning experience is shaped around how young children explore, question, and absorb ideas at their own pace."
-      },
-      {
-        "icon": "Brain",
-        "title": "Thinking and Understanding",
-        "description": "We focus on helping children notice, connect, and make sense of the world rather than simply memorising."
-      },
-      {
         "icon": "Sparkles",
         "title": "Curiosity and Independence",
         "description": "Children are encouraged to ask questions, make choices, and confidently take part in their own learning journey."
+      },
+      {
+        "icon": "Blocks",
+        "title": "Child-Centered Learning",
+        "description": "Each learning experience is shaped around how young children explore, question, and absorb ideas at their own pace."
       },
       {
         "icon": "ClipboardCheck",
@@ -51,44 +46,34 @@
   "cigma": {
     "badge": "What is CIGMA?",
     "title": "Cognitive Intellectual Growth & Motivational Assessment",
-    "description": "CIGMA is our warm, thoughtful curriculum approach that helps children think, understand, explore, and grow with confidence through continuous observation and meaningful engagement.",
+    "description": "CIGMA is our warm curriculum approach that helps children think, explore, and grow with confidence.",
     "pillars": [
-      {
-        "icon": "Blocks",
-        "title": "Child-Centered Learning",
-        "description": "Each learning experience is shaped around how young children explore, question, and absorb ideas at their own pace."
-      },
       {
         "icon": "Brain",
         "title": "Thinking and Understanding",
         "description": "We focus on helping children notice, connect, and make sense of the world rather than simply memorising."
       },
       {
+        "icon": "Blocks",
+        "title": "Child-Centered Learning",
+        "description": "Each learning experience is shaped around how young children explore, question, and absorb ideas at their own pace."
+      },
+      {
         "icon": "Sparkles",
         "title": "Curiosity and Independence",
         "description": "Children are encouraged to ask questions, make choices, and confidently take part in their own learning journey."
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Continuous Observation",
-        "description": "Teachers gently observe progress throughout the year, making space for guidance, reflection, and growth."
       }
     ]
   },
   "activityLearning": {
     "badge": "Activity-Based Learning",
     "title": "Learning becomes joyful when children can do, speak, listen, and explore.",
-    "description": "Activities are conducted throughout the year so each child has opportunities to observe, listen, speak, and act. This \"learning by doing\" approach keeps the classroom fun, engaging, and rich with concept clarity through play.",
+    "description": "Children learn by doing through activities that build listening, speaking, participation, and concept clarity through play.",
     "image": {
       "src": "/images/about-philosophy-learning-moment.png",
       "alt": "Teacher guiding children through hands-on classroom activities"
     },
     "items": [
-      {
-        "icon": "Eye",
-        "title": "Observe, listen, speak, and act",
-        "description": "Children are given meaningful opportunities throughout the year to notice, respond, communicate, and participate actively."
-      },
       {
         "icon": "Hand",
         "title": "Learning by doing",
@@ -103,6 +88,11 @@
         "icon": "BookOpenCheck",
         "title": "Concept clarity through play",
         "description": "Hands-on repetition and guided play make early concepts feel natural, clear, and enjoyable."
+      },
+      {
+        "icon": "Eye",
+        "title": "Observe, listen, speak, and act",
+        "description": "Children are given meaningful opportunities throughout the year to notice, respond, communicate, and participate actively."
       }
     ]
   },
@@ -170,11 +160,6 @@
         "description": "Supporting balance, coordination, movement control, and overall fitness."
       },
       {
-        "icon": "Users",
-        "title": "Social Development",
-        "description": "Helping children share, cooperate, participate, and build healthy peer relationships."
-      },
-      {
         "icon": "Heart",
         "title": "Emotional Development",
         "description": "Creating space for self-awareness, comfort, empathy, and emotional confidence."
@@ -185,16 +170,16 @@
         "description": "Encouraging imagination through art, storytelling, movement, and free expression."
       },
       {
-        "icon": "Handshake",
-        "title": "Moral / Value Development",
-        "description": "Nurturing kindness, responsibility, respect, and positive everyday habits."
+        "icon": "Users",
+        "title": "Social Development",
+        "description": "Helping children share, cooperate, participate, and build healthy peer relationships."
       }
     ]
   },
   "pedagogy": {
     "badge": "Teaching Pedagogy",
     "title": "Thoughtful methods for meaningful early learning.",
-    "description": "We combine structured guidance with joyful participation so learning feels active, supportive, and deeply connected to the way young children naturally grow.",
+    "description": "We combine structured guidance with joyful participation so learning feels active, supportive, and natural for young children.",
     "image": {
       "src": "/images/curriculum-pedagogy.png",
       "alt": "Teacher encouraging interactive discussion and experiential learning"
@@ -242,16 +227,13 @@
     "badge": "Co-Curricular Activities",
     "title": "Shared experiences that build expression, participation, celebration, and school readiness.",
     "items": [
-      "Assembly",
       "Recitation",
       "Story telling",
       "Drama",
       "Drawing",
       "Dress Up Days",
-      "Exhibition",
       "Festival Celebration",
       "Colour Days",
-      "Field trips",
       "Sports and games"
     ]
   },
@@ -262,10 +244,8 @@
       "Singing",
       "Dancing",
       "Story telling",
-      "Role Playing",
       "Painting",
       "Gardening",
-      "Cleaning day",
       "Art and craft",
       "Yoga"
     ]
@@ -273,18 +253,18 @@
   "cta": {
     "badge": "Admissions Open",
     "title": "Give your child a joyful start to learning.",
-    "description": "Discover a curriculum built around curiosity, confidence, creativity, and caring guidance during the most important early years.",
+    "description": "Discover a curriculum built around curiosity, confidence, creativity, and caring guidance.",
     "image": {
       "src": "/images/curriculum-admissions-cta.png",
       "alt": "Teacher welcoming a parent and child into a warm kindergarten classroom"
     },
     "buttons": {
       "primary": {
-        "text": "Start Admissions",
+        "text": "Admissions Open",
         "link": "/admissions"
       },
       "secondary": {
-        "text": "Talk to Us",
+        "text": "Talk to Our Team",
         "link": "/contact"
       }
     }

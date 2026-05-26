@@ -69,9 +69,6 @@ function GalleryImageTile({
         <h3 className="text-forest-dark mt-4 font-sans text-xl leading-tight font-extrabold">
           {image.title}
         </h3>
-        <p className="text-forest-muted mt-3 text-sm leading-6 font-medium">
-          {image.description}
-        </p>
       </figcaption>
     </figure>
   );

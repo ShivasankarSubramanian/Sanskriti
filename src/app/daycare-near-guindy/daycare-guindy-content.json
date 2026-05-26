@@ -6,7 +6,7 @@
   "hero": {
     "badge": "Nearby Daycare for Guindy",
     "title": "Daycare Near Guindy",
-    "description": "Families searching for daycare near Guindy often want a nearby option that fits daily travel and still feels genuinely caring for young children.",
+    "description": "A nearby daycare option for Guindy families who need caring supervision and a practical daily route.",
     "image": {
       "src": "/images/daycare-guindy-hero-banner.jpeg",
       "alt": "Children in a warm daycare room with a teacher guiding calm play near Guindy"
@@ -15,47 +15,43 @@
   "highlights": [
     {
       "title": "Preschool Programs",
-      "description": "Age-appropriate routines for early learners, from playful beginnings to more confident classroom participation."
+      "description": "Age-appropriate routines that build confidence through play."
     },
     {
       "title": "Daycare Support",
-      "description": "A warm daily rhythm with supervised care, guided activities, and a reassuring environment for working families."
-    },
-    {
-      "title": "Convenient Location",
-      "description": "A Velachery location that also serves families coming from Guindy and nearby neighborhoods across South Chennai."
+      "description": "Warm daycare support with guided activities and caring supervision."
     }
   ],
   "sections": [
     {
       "eyebrow": "Working Day Support",
       "title": "Care that makes daily routines manageable",
-      "lead": "Parents looking for daycare near Guindy are often making a practical decision around office hours, travel, and everyday routines.",
+      "lead": "Parents looking for daycare near Guindy are often balancing office hours, travel, and everyday routines.",
       "points": [
         "A nearby Velachery option for Guindy families who need consistent care.",
         "A calm, child-friendly environment for children who spend several hours away from home.",
         "A predictable and caring setting that can make the day easier for both children and parents."
       ],
-      "closing": "Daycare becomes part of a child’s regular world, so the emotional tone of the space matters."
+      "closing": "Daycare becomes part of a child's regular world, so the emotional tone of the space matters."
     },
     {
       "eyebrow": "Dependable Care",
       "title": "Structure with enough flexibility",
-      "lead": "Daily care works best when children have familiar adults, repeated routines, guided activity, and enough calm space to settle.",
+      "lead": "Daily care works best when children have familiar adults, repeated routines, guided activity, and calm space to settle.",
       "points": [
         "Warm supervision that supports comfort and confidence through the day.",
         "Straightforward communication that helps parents trust the routine.",
         "A connected early-years setting for families also considering preschool or kindergarten pathways."
       ],
-      "closing": "Dependable daycare is built on both the child’s comfort and the parent’s confidence."
+      "closing": "Dependable daycare is built on both the child's comfort and the parent's confidence."
     },
     {
       "eyebrow": "Nearby Access",
       "title": "A Velachery base that can suit Guindy routes",
-      "lead": "A daycare near Guindy does not have to sit inside Guindy itself to be useful. The real question is whether the route works for your family.",
+      "lead": "A daycare near Guindy does not need to sit inside Guindy itself. The real question is whether the route works for your family.",
       "points": [
         "Useful for parents traveling from Guindy, Adambakkam, Madipakkam, Taramani, Perungudi, Nanganallur, Saidapet, and Velachery.",
-        "A manageable route can reduce daily stress and make children’s routines more consistent.",
+        "A manageable route can reduce daily stress and make children's routines more consistent.",
         "Best understood through admissions information, gallery, FAQs, and a direct conversation."
       ],
       "closing": "Clarity and convenience help a daycare search become a genuine family option."
@@ -63,7 +59,7 @@
   ],
   "families": {
     "title": "Families We Commonly Serve",
-    "description": "This daycare page is written for Guindy families who may find our Velachery location practical, and it also reflects the needs of nearby neighborhoods such as Adambakkam, Madipakkam, Taramani, Perungudi, Nanganallur, Saidapet, and Velachery.",
+    "description": "This page is for Guindy families who may find our Velachery location practical, along with nearby South Chennai families exploring the same route.",
     "notes": [
       "Nearby daycare option for Guindy families",
       "Velachery campus with working-parent access",
@@ -83,14 +79,14 @@
   "cta": {
     "badge": "Plan Your Next Step",
     "title": "Explore daycare support near Guindy",
-    "description": "Explore more of the school, review practical information, and then reach out when you are ready to discuss admissions or daycare support for your child.",
+    "description": "Explore the school, review the essentials, and reach out when you are ready to discuss daycare support.",
     "image": {
       "src": "/images/daycare-guindy-hero-banner.jpeg",
       "alt": "Children in a warm daycare room with a teacher guiding calm play near Guindy"
     },
     "actions": [
       {
-        "text": "Enquire About Daycare Support",
+        "text": "Talk to Our Team",
         "href": "/contact",
         "variant": "primary"
       },
@@ -102,11 +98,6 @@
       {
         "text": "Read FAQ",
         "href": "/faq",
-        "variant": "secondary"
-      },
-      {
-        "text": "Contact Us",
-        "href": "/contact",
         "variant": "secondary"
       }
     ]

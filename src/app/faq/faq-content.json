@@ -9,18 +9,18 @@
       "line1": "Frequently Asked",
       "highlight": "Questions"
     },
-    "subtitle": "Clear, practical answers for families getting to know Sanskriti Kindergarten.",
+    "subtitle": "Quick, practical answers for families exploring Sanskriti Kindergarten.",
     "image": {
       "src": "/images/faq-banner.jpeg",
       "alt": "Children learning together in a bright kindergarten classroom"
     },
     "buttons": {
       "primary": {
-        "text": "View answers",
+        "text": "Browse FAQs",
         "link": "#questions"
       },
       "secondary": {
-        "text": "Connect with us",
+        "text": "Talk to Our Team",
         "link": "/contact"
       }
     }
@@ -31,9 +31,9 @@
       "main": "Talk to our",
       "highlight": "support team"
     },
-    "description": "Reach out for admissions, classroom guidance, schedules, or anything related to your child's learning journey.",
+    "description": "Reach out for admissions, schedules, classroom guidance, or parent support.",
     "button": {
-      "text": "Contact Support",
+      "text": "Talk to Our Team",
       "link": "/contact"
     },
     "image": {
@@ -50,43 +50,43 @@
   "faqs": [
     {
       "q": "What age groups do you accept?",
-      "a": "We accept children aged 2 to 6 years. Our programs are tailored to each developmental stage: Toddlers (2-3), Pre-K (3-4), and Kindergarten (4-6)."
+      "a": "We welcome children aged 2 to 6 years, with programs matched to each stage from toddlers to kindergarten."
     },
     {
       "q": "What are the school hours and daycare options?",
-      "a": "Our standard school hours are 9:00 AM to 1:30 PM for Pre-K and until 3:00 PM for Kindergarten. We also offer an extended daycare facility until 6:00 PM for working parents."
+      "a": "School hours are 9:00 AM to 1:30 PM for Pre-K and until 3:00 PM for Kindergarten, with daycare support available until 6:00 PM."
     },
     {
       "q": "What is the teacher-to-child ratio?",
-      "a": "To ensure individual attention, we maintain a small ratio of 1:10. Each classroom has a lead teacher and a trained assistant, plus specialized support staff for activities."
+      "a": "We maintain a small 1:10 ratio to support individual attention, with a lead teacher and trained support in each classroom."
     },
     {
       "q": "What is your philosophy on education?",
-      "a": "We follow a Reggio-inspired, play-based philosophy. We believe children are capable, resilient, and full of potential, learning best through creative expression and discovery."
+      "a": "We follow a play-based, Reggio-inspired approach where children learn through discovery, creativity, and guided exploration."
     },
     {
       "q": "Do you provide healthy meals?",
-      "a": "Yes, we have an in-house kitchen that prepares fresh, nutritious vegetarian meals daily. We focus on a balanced diet and also accommodate specific allergies or dietary needs."
+      "a": "Yes. Our in-house kitchen prepares fresh vegetarian meals daily, with support for allergies and dietary needs."
     },
     {
       "q": "How do you handle safety and security?",
-      "a": "Your child's safety is our priority. Our campus is fully CCTV monitored, has gated entry with security personnel, and all our staff are background-verified and first-aid trained."
+      "a": "Safety is a priority, with CCTV monitoring, gated entry, verified staff, and first-aid-trained team members."
     },
     {
       "q": "Is there a school uniform?",
-      "a": "Yes, we have a comfortable, child-friendly uniform for regular days and a specific sports uniform for activity days. This helps foster a sense of belonging and equality."
+      "a": "Yes. We have a comfortable daily uniform and a separate sports uniform for activity days."
     },
     {
       "q": "How do you handle potty training?",
-      "a": "We partner with parents during this transition. Our staff is patient and experienced in supporting children who are in the process of becoming toilet independent."
+      "a": "We work closely with parents and support children patiently as they become toilet independent."
     },
     {
       "q": "How do parents stay updated about daily activities?",
-      "a": "We maintain regular communication through daily highlights, weekly observations, and personal interactions so families always feel deeply connected to their child's learning journey."
+      "a": "Parents stay updated through regular highlights, observations, and direct communication with the team."
     },
     {
       "q": "Do you focus only on academics?",
-      "a": "No. Our holistic approach balances foundational literacy and numeracy with a strong emphasis on creative arts, emotional intelligence, social confidence, and independent critical thinking."
+      "a": "No. We balance early literacy and numeracy with creativity, emotional growth, social confidence, and independent thinking."
     }
   ],
   "cta": {

@@ -11,7 +11,7 @@ export const metadata: Metadata = constructMetadata({
 
 const pageConfig = {
   heroActions: [
-    { text: "Enquire About Play School Admission", href: "/contact" },
+    { text: "Book a Visit", href: "/contact" },
     { text: "Read FAQ", href: "/faq" },
   ],
   heroCallout: {
@@ -22,7 +22,7 @@ const pageConfig = {
     eyebrow: "Play School Start",
     title: "A soft, encouraging beginning to school life.",
     description:
-      "Parents can see how children settle, play, communicate, and become comfortable with group learning.",
+      "Parents can quickly see how children settle, play, and grow comfortable with group learning.",
     assurances: [
       {
         icon: "HeartHandshake",

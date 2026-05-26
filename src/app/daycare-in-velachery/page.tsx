@@ -11,7 +11,7 @@ export const metadata: Metadata = constructMetadata({
 
 const pageConfig = {
   heroActions: [
-    { text: "Apply for Daycare Information", href: "/contact" },
+    { text: "Talk to Our Team", href: "/contact" },
     { text: "Read FAQ", href: "/faq" },
   ],
   heroCallout: {
@@ -22,7 +22,7 @@ const pageConfig = {
     eyebrow: "Daycare Support",
     title: "Care, routine, and continuity for young children.",
     description:
-      "Parents can quickly understand how the day feels: supervised, steady, connected, and practical for family schedules.",
+      "Parents can quickly understand how the day feels: supervised, steady, and practical for family schedules.",
     assurances: [
       {
         icon: "ShieldCheck",

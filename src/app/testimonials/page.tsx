@@ -115,21 +115,6 @@ export default function TestimonialsPage() {
             </p>
           </div>
 
-          <div className="mx-auto mt-8 flex max-w-3xl flex-wrap justify-center gap-3">
-            {[
-              "5-star parent stories",
-              "Safe, friendly care",
-              "Joyful classroom routines",
-            ].map((label, index) => (
-              <span
-                key={label}
-                className={`rounded-full border px-4 py-2 text-xs font-black uppercase ${testimonialAccents[index]}`}
-              >
-                {label}
-              </span>
-            ))}
-          </div>
-
           <div className="mt-12 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
             {content.testimonials.map((testimonial, index) => (
               <article
