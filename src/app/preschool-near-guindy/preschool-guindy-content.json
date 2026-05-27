@@ -1,12 +1,12 @@
 {
   "metadata": {
     "title": "Preschool Near Guindy | Sanskriti Kindergarten",
-    "description": "Sanskriti Kindergarten is a nurturing preschool near Guindy, based in Velachery, with play-based learning, daycare support, and practical access for nearby families."
+    "description": "Sanskriti Kindergarten is a nurturing preschool near Guindy with a Velachery campus, play-based learning, and practical daily access."
   },
   "hero": {
     "badge": "Guindy Families",
     "title": "Preschool Near Guindy",
-    "description": "A nearby preschool option for Guindy families who want a warm, practical start for their child.",
+    "description": "Families near Guindy often look for nearby schools with practical routes and a warm start.",
     "image": {
       "src": "/images/preschool-guindy-hero-banner.jpeg",
       "alt": "Children learning through blocks, drawing, and play in a bright preschool classroom near Guindy"
@@ -15,51 +15,55 @@
   "highlights": [
     {
       "title": "Preschool Programs",
-      "description": "Age-appropriate routines that build confidence through play."
+      "description": "Age-appropriate routines that build confidence gradually."
     },
     {
       "title": "Daycare Support",
-      "description": "Warm daycare support with guided activities and caring supervision."
+      "description": "Warm supervised care with a steady daily rhythm."
+    },
+    {
+      "title": "Convenient Location",
+      "description": "A Velachery campus with practical access from Guindy."
     }
   ],
   "sections": [
     {
       "eyebrow": "Daily Practicality",
-      "title": "Close enough for real family routines",
-      "lead": "Families searching for a preschool near Guindy want a school that fits daily routes and still feels warm.",
+      "title": "Close enough for real routines",
+      "lead": "Families want a school that fits daily routes and still feels welcoming.",
       "points": [
-        "A practical Velachery option for Guindy parents who want a nurturing preschool environment.",
-        "A school day focused on the child's full early experience, not only a checklist of features.",
-        "A morning atmosphere that feels secure, joyful, and manageable for young children."
+        "A practical Velachery option for Guindy-based parents.",
+        "A school day focused on comfort, care, and participation.",
+        "A morning atmosphere that feels secure and manageable."
       ],
-      "closing": "Daily convenience matters, and so does the feeling a child steps into each morning."
+      "closing": "Convenience matters, but the daily emotional tone matters just as much."
     },
     {
       "eyebrow": "Parent Priorities",
       "title": "Warmth, confidence, and participation",
-      "lead": "Parents are not only looking for a location pin. They want a place where children settle well and participate happily.",
+      "lead": "Parents want children to settle well and enjoy learning.",
       "points": [
-        "Play-based learning through conversation, stories, movement, observation, and hands-on exploration.",
-        "Support for comfort, communication, consistency, and age-appropriate readiness.",
-        "A responsive environment that understands preschool, daycare, and play school needs."
+        "Play-based learning through stories, movement, and exploration.",
+        "Support for comfort, communication, and age-appropriate growth.",
+        "A responsive setting for preschool and daycare needs."
       ],
-      "closing": "A preschool near Guindy should make early learning feel inviting and achievable."
+      "closing": "A preschool near Guindy should make early learning feel natural."
     },
     {
       "eyebrow": "Velachery Base",
-      "title": "A nearby campus that can still work well",
-      "lead": "Guindy families often widen their search when the right preschool experience still fits the route.",
+      "title": "A nearby campus that works",
+      "lead": "Many Guindy families widen their search when the campus is strong and the route is practical.",
       "points": [
-        "Useful for families moving through Guindy, Velachery, Adambakkam, Taramani, Perungudi, Madipakkam, Nanganallur, or Saidapet.",
-        "A practical fit for parents who value both commute and classroom experience.",
-        "Best understood through admissions details, the gallery, FAQs, and a direct enquiry."
+        "Useful for families across Guindy and nearby neighborhoods.",
+        "A practical fit balancing commute and classroom quality.",
+        "Best understood through a campus visit and direct enquiry."
       ],
-      "closing": "What matters most is a realistic routine and a positive child experience."
+      "closing": "The right campus supports both family routine and child comfort."
     }
   ],
   "families": {
     "title": "Families We Commonly Serve",
-    "description": "This page is for Guindy families considering a nearby Velachery preschool, along with nearby South Chennai parents exploring the same route.",
+    "description": "Designed for Guindy families exploring a nearby Velachery preschool.",
     "notes": [
       "Nearby preschool option for Guindy families",
       "Velachery campus with South Chennai access",
@@ -79,14 +83,14 @@
   "cta": {
     "badge": "Plan Your Next Step",
     "title": "Explore preschool admissions near Guindy",
-    "description": "Explore the school, review the essentials, and reach out when you are ready to discuss admissions.",
+    "description": "Review the school and contact us when you are ready to discuss preschool or daycare options.",
     "image": {
       "src": "/images/preschool-guindy-hero-banner.jpeg",
       "alt": "Children learning through blocks, drawing, and play in a bright preschool classroom near Guindy"
     },
     "actions": [
       {
-        "text": "Book a Visit",
+        "text": "Apply for Preschool Admission",
         "href": "/contact",
         "variant": "primary"
       },
@@ -98,6 +102,11 @@
       {
         "text": "Read FAQ",
         "href": "/faq",
+        "variant": "secondary"
+      },
+      {
+        "text": "Contact Us",
+        "href": "/contact",
         "variant": "secondary"
       }
     ]

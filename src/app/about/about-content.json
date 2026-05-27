@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "About | Sanskriti Kindergarten",
-    "description": "Learn about Sanskriti Kindergarten's early childhood philosophy, values, mission, and nurturing learning environment."
+    "description": "Learn about Sanskriti Kindergarten's philosophy, values, mission, and caring early-years environment."
   },
   "hero": {
     "badge": "Established 2012",
@@ -10,18 +10,18 @@
       "highlight": "Infinite",
       "line2": "Possibilities."
     },
-    "subtitle": "A warm, premium kindergarten where children grow with confidence, care, and joy.",
+    "subtitle": "A warm, thoughtfully designed early-learning space with a child-first curriculum.",
     "cta": {
-      "text": "Explore Our Story",
+      "text": "Discover Excellence",
       "link": "/contact"
     },
     "buttons": {
       "primary": {
-        "text": "Explore Our Story",
+        "text": "Our Vision",
         "link": "#vision-mission"
       },
       "secondary": {
-        "text": "Schedule a Campus Tour",
+        "text": "Book a Visit",
         "link": "/contact"
       }
     },
@@ -34,31 +34,31 @@
     "badge": {
       "text": "THE SANSKRITI DIFFERENCE"
     },
-    "title": "Why Choose Sanskriti?",
-    "subtitle": "Every detail is designed to help children feel safe, joyful, and ready to learn.",
+    "title": "Why Sanskriti",
+    "subtitle": "Every detail, from classrooms to curriculum, is designed to help young children feel secure and engaged.",
     "features": [
       {
         "icon": "Palette",
         "title": "Play-Based Learning",
-        "description": "Playful learning that builds curiosity, creativity, and a love for discovery.",
+        "description": "Hands-on activities to build curiosity and creativity.",
         "accent": "gold"
       },
       {
         "icon": "GraduationCap",
         "title": "Experienced Teachers",
-        "description": "Caring, qualified teachers who guide every child with patience and warmth.",
+        "description": "Caring educators guiding your child's early years.",
         "accent": "mint"
       },
       {
         "icon": "ShieldCheck",
         "title": "Safe Environment",
-        "description": "A secure campus with child-friendly spaces, CCTV, and thoughtful safety routines.",
+        "description": "Secure campus with CCTV and clear routines.",
         "accent": "sky"
       },
       {
         "icon": "Sparkles",
-        "title": "Creative Activities",
-        "description": "Art, music, dance, and imaginative play that support joyful, holistic growth.",
+        "title": "Creative Experiences",
+        "description": "Art, music, and play to build confidence.",
         "accent": "coral"
       }
     ]
@@ -71,16 +71,16 @@
     "items": [
       {
         "id": "vision",
-        "emoji": "V",
+        "emoji": "🎯",
         "label": "Our Vision",
-        "content": "To be a trusted kindergarten where children grow into confident, compassionate, creative learners.",
+        "content": "To be a trusted kindergarten where children grow into confident, compassionate, and creative learners.",
         "accent": "gold"
       },
       {
         "id": "mission",
-        "emoji": "M",
+        "emoji": "💡",
         "label": "Our Mission",
-        "content": "We create a warm, inclusive environment where play-based learning supports intellectual, social, and emotional growth.",
+        "content": "A warm, play-based environment supporting every child's growth.",
         "accent": "mint"
       }
     ]
@@ -91,18 +91,18 @@
     },
     "title": {
       "main": "Beyond Education.",
-      "accent": "Pure Inspiration."
+      "accent": "Inspired Beginnings."
     },
-    "description": "At Sanskriti, play, discovery, and confidence grow naturally through thoughtful early learning experiences.",
+    "description": "We design early-learning experiences where play, discovery, and confidence grow naturally.",
     "pillars": [
       {
         "title": "Safe Haven",
-        "description": "A reassuring environment shaped by supervision, hygiene, and child-friendly routines.",
+        "description": "Attentive supervision, hygiene, and reassuring routines.",
         "accent": "gold"
       },
       {
-        "title": "Global Vision",
-        "description": "Rooted in values while helping children think, express, and collaborate with confidence.",
+        "title": "Future Ready",
+        "description": "Building communication and curiosity rooted in strong values.",
         "accent": "mint"
       }
     ],
@@ -110,7 +110,7 @@
       "src": "/images/about-philosophy-learning-moment.png",
       "alt": "Our Philosophy"
     },
-    "floatingQuote": "Where brilliance begins."
+    "floatingQuote": "Where confidence begins."
   },
   "values": {
     "badge": {
@@ -121,126 +121,141 @@
       {
         "icon": "Heart",
         "title": "Compassion",
-        "description": "We nurture kindness and empathy in every interaction."
+        "description": "We lead with kindness in every interaction."
+      },
+      {
+        "icon": "Handshake",
+        "title": "Inclusivity",
+        "description": "Every child is welcomed, respected, and supported."
       },
       {
         "icon": "TreePine",
         "title": "Growth",
-        "description": "Supporting steady development at each child's unique pace."
+        "description": "We support steady progress at each child's pace."
+      },
+      {
+        "icon": "Star",
+        "title": "Excellence",
+        "description": "We hold high standards in care, teaching, and safety."
       },
       {
         "icon": "Smile",
         "title": "Joy",
-        "description": "Making learning a joyful and memorable experience."
+        "description": "We make learning joyful and memorable."
       },
       {
         "icon": "Users",
         "title": "Community",
-        "description": "Building strong bonds between families, children, and educators."
+        "description": "Strong family-school partnerships shape every child's journey."
       }
     ]
   },
   "quote": {
-    "text": "Our vision is to nurture a generation that is globally conscious, locally rooted, and eternally curious."
+    "text": "We nurture children who are curious, kind, and ready for the world ahead."
   },
   "teachersSection": {
     "badge": "Our Educators",
-    "title": "Experienced, caring, and qualified",
-    "subtitle": "Each educator helps children grow with confidence, curiosity, and joy."
+    "title": "Experienced and caring teachers",
+    "subtitle": "Our team helps children grow with confidence, curiosity, and joy."
   },
   "teachers": [
     {
-      "name": "Mrs. Rajalakshmi",
-      "role": "Sr. KG Class Teacher Cum Admin",
+      "name": "Latha Sundar",
+      "role": "Senior Educator",
+      "experience": "16 years of teaching experience.",
+      "experienceDetails": [],
+      "qualifications": ["B.A.", "B.Ed."],
+      "achievement": "Received an educational service award from the Rotary Club.",
+      "image": {
+        "src": "/images/testimonial-latha-sundar.png",
+        "alt": "Portrait of Latha Sundar"
+      }
+    },
+    {
+      "name": "S. Rajalakshmi",
+      "role": "Educator",
       "experience": "7 years of teaching experience.",
-      "experienceDetails": [
-        "Has been working at Sanskriti Kindergarten for the past 6 years",
-        "Handles school enquiries and supports school functions and events"
-      ],
+      "experienceDetails": [],
       "qualifications": [
-        "MBA (Accounts and Finance)",
+        "MBA in Accounts and Finance",
         "Montessori Certified",
         "Phonics Certified"
       ],
-      "achievement": "She has been working at our school for the past 6 years and is experienced in handling young children with care and patience. Her expertise includes phonics, public speaking, storytelling, rhymes, and activity-based learning. She follows an interactive teaching approach using games, songs, dance, and creative activities to make learning enjoyable for children.",
+      "achievement": "",
       "image": {
         "src": "/images/testimonial-s-rajalakshmi.png",
-        "alt": "Portrait of Mrs. Rajalakshmi"
+        "alt": "Portrait of S. Rajalakshmi"
       }
     },
     {
-      "name": "Mrs. Latha Sundar",
-      "role": "Centre Head",
-      "experience": "16 years of teaching experience.",
+      "name": "M. Sabila Banu",
+      "role": "Educator",
+      "experience": "3 years of teaching experience.",
       "experienceDetails": [
-        "8 years of experience at Sanskriti Kindergarten Guindy",
-        "Experienced in storytelling"
+        "1 year at Al-Hikma (Anjuman Campus, T. Nagar)",
+        "2 years at Sanskriti Kindergarten"
       ],
-      "qualifications": ["B.A.", "B.Ed. (English & History)"],
-      "achievement": "She has a friendly approach with children and is known for conducting special days that are both creative and educational. She is well known for her patience and kindness with children.",
-      "image": {
-        "src": "/images/testimonial-latha-sundar.png",
-        "alt": "Portrait of Mrs. Latha Sundar"
-      }
-    },
-    {
-      "name": "Ms. Musheera Fathima S.",
-      "role": "Sr. KG Co-Teacher",
-      "experience": "3 years of teaching experience.",
-      "experienceDetails": [],
-      "qualifications": ["B.A. Corporate Economics", "Montessori Education"],
-      "achievement": "Ms. Musheera Fathima S. is a dedicated teacher known for her interactive and student-friendly teaching style. She helps children improve their communication, reading, and writing skills through creative lessons and practical activities. She encourages confidence, critical thinking, and a love for literature among her students.",
-      "image": {
-        "src": "/images/testimonial-musheera-fathima-s.png",
-        "alt": "Portrait of Ms. Musheera Fathima S."
-      }
-    },
-    {
-      "name": "Ms. Vasupradha",
-      "role": "Jr. KG Co-Teacher",
-      "experience": "1 year of teaching experience.",
-      "experienceDetails": [],
-      "qualifications": ["BCA (Bachelor of Computer Application)"],
-      "achievement": "Ms. Vasupradha is an enthusiastic kindergarten teacher known for her warm and friendly teaching style. She uses storytelling, songs, games, and interactive activities to make learning fun and meaningful for children. She focuses on improving children's creativity, social skills, and early learning abilities in a positive classroom atmosphere.",
-      "image": {
-        "src": "/images/testimonial-e-vasupradha.png",
-        "alt": "Portrait of Ms. Vasupradha"
-      }
-    },
-    {
-      "name": "Ms. Gomathi",
-      "role": "Jr. KG Class Teacher",
-      "experience": "15 years of teaching experience.",
-      "experienceDetails": [],
-      "qualifications": ["MBA (HR)", "Diploma in Montessori Education"],
-      "achievement": "Ms. Gomathi is a passionate and caring Montessori teacher who believes in creating a joyful and child-friendly learning environment. She encourages young learners to explore, discover, and learn through hands-on activities and creative play. Her teaching approach focuses on building confidence, communication skills, and independent learning habits in children.",
-      "image": {
-        "src": "/images/testimonial-m-gomathi.png",
-        "alt": "Portrait of Ms. Gomathi"
-      }
-    },
-    {
-      "name": "Mrs. Ashwini",
-      "role": "Play Group Teacher",
-      "experience": "3 years of teaching experience.",
-      "experienceDetails": [],
-      "qualifications": ["B.Com (General)", "Phonics Certified"],
-      "achievement": "Mrs. Ashwini is a compassionate special educator who supports children with diverse learning needs through personalized teaching strategies and patient guidance. She believes every child can learn and grow with encouragement, understanding, and the right support.",
-      "image": {
-        "src": "/images/testimonial-s-ashwini.png",
-        "alt": "Portrait of Mrs. Ashwini"
-      }
-    },
-    {
-      "name": "Mrs. Sabila Banu M.",
-      "role": "Nursery Class Teacher",
-      "experience": "3 years of teaching experience.",
-      "experienceDetails": [],
-      "qualifications": ["B.P.T.", "TTIS", "D.Asc"],
-      "achievement": "Mrs. M. Sabila Banu is a passionate and energetic preschool teacher with hands-on student teaching experience and a strong foundation in child development. She brings a creative approach to lesson planning, excellent communication skills, and patience to foster confidence and early learning in young children.",
+      "qualifications": [
+        "B.P.T. (Physiotherapist)",
+        "TTIS (Teacher Training)",
+        "D.Asc (Acupuncture Therapist)"
+      ],
+      "achievement": "",
       "image": {
         "src": "/images/testimonial-m-sabila-banu.png",
-        "alt": "Portrait of Mrs. Sabila Banu M."
+        "alt": "Portrait of M. Sabila Banu"
+      }
+    },
+    {
+      "name": "S. Ashwini",
+      "role": "Educator",
+      "experience": "With Sanskriti Kindergarten since August 2023.",
+      "experienceDetails": [
+        "3 years of classroom teaching experience"
+      ],
+      "qualifications": ["B.Com (General)", "Phonics Certified"],
+      "achievement": "",
+      "image": {
+        "src": "/images/testimonial-s-ashwini.png",
+        "alt": "Portrait of S. Ashwini"
+      }
+    },
+    {
+      "name": "M. Gomathi",
+      "role": "Senior Educator",
+      "experience": "15 years of teaching experience.",
+      "experienceDetails": [],
+      "qualifications": ["MBA (HR)", "Advanced Diploma in Montessori"],
+      "achievement": "",
+      "image": {
+        "src": "/images/testimonial-m-gomathi.png",
+        "alt": "Portrait of M. Gomathi"
+      }
+    },
+    {
+      "name": "E. Vasupradha",
+      "role": "Educator",
+      "experience": "With Sanskriti Kindergarten since April 2025.",
+      "experienceDetails": ["Joined the team in 2025"],
+      "qualifications": ["BCA (Bachelor of Computer Applications)"],
+      "achievement": "",
+      "image": {
+        "src": "/images/testimonial-e-vasupradha.png",
+        "alt": "Portrait of E. Vasupradha"
+      }
+    },
+    {
+      "name": "Musheera Fathima S.",
+      "role": "Educator",
+      "experience": "With Sanskriti Kindergarten since May 2023.",
+      "experienceDetails": [
+        "3 years of classroom teaching experience"
+      ],
+      "qualifications": ["B.A. Corporate Economics", "Montessori in Teaching"],
+      "achievement": "",
+      "image": {
+        "src": "/images/testimonial-musheera-fathima-s.png",
+        "alt": "Portrait of Musheera Fathima S."
       }
     }
   ],
@@ -249,7 +264,7 @@
     "description": "Schedule a visit and see why families trust Sanskriti for their child's foundation years.",
     "buttons": {
       "primary": {
-        "text": "Book a Visit",
+        "text": "Schedule a Visit",
         "link": "/contact"
       },
       "secondary": {

@@ -1,26 +1,26 @@
 {
   "metadata": {
     "title": "FAQ | Sanskriti Kindergarten",
-    "description": "Answers to common parent questions about Sanskriti Kindergarten programs, timings, meals, transport, and child progress updates."
+    "description": "Quick answers to parent questions on programs, timings, meals, safety, routines, and communication."
   },
   "hero": {
-    "badge": "Parent questions",
+    "badge": "Parent Questions",
     "title": {
       "line1": "Frequently Asked",
       "highlight": "Questions"
     },
-    "subtitle": "Quick, practical answers for families exploring Sanskriti Kindergarten.",
+    "subtitle": "Clear answers for families exploring Sanskriti Kindergarten.",
     "image": {
       "src": "/images/faq-banner.jpeg",
       "alt": "Children learning together in a bright kindergarten classroom"
     },
     "buttons": {
       "primary": {
-        "text": "Browse FAQs",
+        "text": "View Answers",
         "link": "#questions"
       },
       "secondary": {
-        "text": "Talk to Our Team",
+        "text": "Contact Us",
         "link": "/contact"
       }
     }
@@ -31,9 +31,9 @@
       "main": "Talk to our",
       "highlight": "support team"
     },
-    "description": "Reach out for admissions, schedules, classroom guidance, or parent support.",
+    "description": "Reach out for help with admissions, schedules, routines, or classroom guidance.",
     "button": {
-      "text": "Talk to Our Team",
+      "text": "Contact Support",
       "link": "/contact"
     },
     "image": {
@@ -44,58 +44,58 @@
   "questionsSection": {
     "badge": "FAQ",
     "title": {
-      "main": "Questions we hear most often"
+      "main": "Questions parents ask most"
     }
   },
   "faqs": [
     {
       "q": "What age groups do you accept?",
-      "a": "We welcome children aged 2 to 6 years, with programs matched to each stage from toddlers to kindergarten."
+      "a": "We accept children aged 2 to 6 years across age-appropriate programs: toddlers (2-3), pre-K (3-4), and kindergarten (4-6)."
     },
     {
       "q": "What are the school hours and daycare options?",
-      "a": "School hours are 9:00 AM to 1:30 PM for Pre-K and until 3:00 PM for Kindergarten, with daycare support available until 6:00 PM."
+      "a": "School hours are typically 9:00 AM to 1:30 PM for pre-K and up to 3:00 PM for kindergarten. Extended daycare is available until 6:00 PM."
     },
     {
       "q": "What is the teacher-to-child ratio?",
-      "a": "We maintain a small 1:10 ratio to support individual attention, with a lead teacher and trained support in each classroom."
+      "a": "We maintain small groups for individual attention. Each class has a lead teacher and trained support staff."
     },
     {
       "q": "What is your philosophy on education?",
-      "a": "We follow a play-based, Reggio-inspired approach where children learn through discovery, creativity, and guided exploration."
+      "a": "We follow a play-based, child-centered approach where children learn through exploration, creativity, and guided discovery."
     },
     {
       "q": "Do you provide healthy meals?",
-      "a": "Yes. Our in-house kitchen prepares fresh vegetarian meals daily, with support for allergies and dietary needs."
+      "a": "Yes. Fresh vegetarian meals are prepared in-house, and we support allergy or dietary requirements where needed."
     },
     {
       "q": "How do you handle safety and security?",
-      "a": "Safety is a priority, with CCTV monitoring, gated entry, verified staff, and first-aid-trained team members."
+      "a": "The campus is CCTV monitored with gated entry. Staff are trained and follow clear child-safety practices."
     },
     {
       "q": "Is there a school uniform?",
-      "a": "Yes. We have a comfortable daily uniform and a separate sports uniform for activity days."
+      "a": "Yes. Children wear a comfortable daily uniform and a separate sports uniform on activity days."
     },
     {
       "q": "How do you handle potty training?",
-      "a": "We work closely with parents and support children patiently as they become toilet independent."
+      "a": "We work closely with parents and support children patiently as they build toilet independence."
     },
     {
       "q": "How do parents stay updated about daily activities?",
-      "a": "Parents stay updated through regular highlights, observations, and direct communication with the team."
+      "a": "We share regular updates through daily highlights, weekly observations, and direct parent communication."
     },
     {
       "q": "Do you focus only on academics?",
-      "a": "No. We balance early literacy and numeracy with creativity, emotional growth, social confidence, and independent thinking."
+      "a": "No. We balance early literacy and numeracy with social, emotional, creative, and independent learning skills."
     }
   ],
   "cta": {
     "badge": "NEXT STEP",
     "title": {
       "main": "Let's plan your",
-      "highlight": "first visit."
+      "highlight": "first visit"
     },
-    "description": "Share your child's age and our team will help you find the right classroom, timing, and tour slot.",
+    "description": "Share your child's age and we will help you choose the right classroom and tour slot.",
     "button": {
       "text": "Schedule a Visit",
       "link": "/contact"

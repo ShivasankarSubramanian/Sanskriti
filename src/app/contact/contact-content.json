@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Contact | Sanskriti Kindergarten",
-    "description": "Contact Sanskriti Kindergarten for admissions, campus tours, classroom routines, and parent support."
+    "description": "Contact Sanskriti Kindergarten for admissions, campus visits, routines, and parent support."
   },
   "school": {
     "name": "Sanskriti Kindergarten Guindy",
@@ -9,9 +9,9 @@
   },
   "contact": {
     "address": "No. 20B, Cart Track Road, Gopalakrishnan Street, Opposite Kala Flats, Chennai, Tamil Nadu 600032",
-    "phone": "+91 99411 48333",
+    "phone": "+91 78455 19020",
     "email": "sanskritivelachery@gmail.com",
-    "hours": "Mon-Sat: 9 AM to 6 PM"
+    "hours": "Mon-Fri: 9 AM to 6 PM"
   },
   "hero": {
     "badge": "Contact Sanskriti",
@@ -19,24 +19,24 @@
       "line1": "We'd Love to",
       "word1": "Hear",
       "word2": "From",
-      "word3": "You!"
+      "word3": "You"
     },
-    "subtitle": "Questions about admissions, programs, or visits?",
-    "subtitleHighlight": "We're here to help.",
+    "subtitle": "Questions about admissions or campus visits?",
+    "subtitleHighlight": "Our team is here to help.",
     "image": {
       "src": "/images/contact-banner.jpeg",
       "alt": "Happy children playing"
     }
   },
   "detailsSection": {
-    "badge": "Contact details",
+    "badge": "Contact Details",
     "title": "Talk to us before you visit.",
-    "description": "Our team can help with admissions, tour availability, school hours, and the right program for your child.",
+    "description": "We can help with program fit, tour availability, timings, and admissions guidance.",
     "image": {
       "src": "/images/contact-hero-sanskriti-reception.png",
       "alt": "Children learning in a warm Sanskriti classroom"
     },
-    "callout": "Weekday campus tours are available by appointment."
+    "callout": "Private campus tours are available on weekdays."
   },
   "contactDetails": [
     {
@@ -87,14 +87,14 @@
   ],
   "visitCta": {
     "title": "Ready to visit?",
-    "text": "Call us to schedule a guided tour and meet our teachers.",
+    "text": "Call us to schedule a guided campus tour.",
     "button": {
-      "text": "Book a Visit"
+      "text": "Book a Tour"
     }
   },
   "mapSection": {
     "id": "map",
-    "badge": "Visit us",
+    "badge": "Visit Us",
     "title": "Find our location",
     "rating": "4.9",
     "reviews": "50 Google reviews",

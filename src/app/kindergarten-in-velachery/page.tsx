@@ -11,36 +11,36 @@ export const metadata: Metadata = constructMetadata({
 
 const pageConfig = {
   heroActions: [
-    { text: "Schedule a Campus Tour", href: "/contact" },
+    { text: "Apply for Kindergarten Admission", href: "/contact" },
     { text: "Read FAQ", href: "/faq" },
   ],
   heroCallout: {
     eyebrow: "Ready for the next stage",
-    text: "A kindergarten rhythm built around structure, warmth, and everyday confidence.",
+    text: "A kindergarten rhythm built around structure, warmth, and confidence.",
   },
   experience: {
     eyebrow: "Kindergarten Growth",
     title: "Structure, warmth, and readiness in one steady day.",
     description:
-      "Parents can quickly see how kindergarten builds confidence, habits, and emotional comfort.",
+      "See how kindergarten builds confidence, healthy habits, and emotional comfort.",
     assurances: [
       {
         icon: "ShieldCheck",
         title: "Supported confidence",
         description:
-          "Children grow into group learning with patient guidance and a steady classroom rhythm.",
+          "Children grow into group learning with patient guidance and steady rhythm.",
       },
       {
         icon: "BookOpenCheck",
         title: "School readiness",
         description:
-          "Language, attention, curiosity, communication, and participation develop through daily practice.",
+          "Language, attention, curiosity, and participation grow through daily practice.",
       },
       {
         icon: "Clock3",
         title: "Age-appropriate routine",
         description:
-          "The day offers enough structure for growth while keeping early childhood warm and joyful.",
+          "The day balances structure for growth with a warm early-years feel.",
       },
     ],
     icons: ["Clock3", "BookOpenCheck", "MapPin"],

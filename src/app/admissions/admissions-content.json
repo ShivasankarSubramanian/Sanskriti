@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Admissions | Sanskriti Kindergarten Chennai",
-    "description": "Apply for admissions at Sanskriti Kindergarten Chennai and learn about preschool, play school, kindergarten, and daycare enrollment.",
+    "description": "Apply to Sanskriti Kindergarten and explore preschool, play school, kindergarten, and daycare admissions.",
     "canonical": "/admissions",
     "keywords": [
       "kindergarten admission Chennai",
@@ -11,7 +11,7 @@
     ]
   },
   "contact": {
-    "phone": "+91 99411 48333",
+    "phone": "+91 78455 19020",
     "email": "sanskritivelachery@gmail.com"
   },
   "hero": {
@@ -20,18 +20,18 @@
       "line1": "Begin a Joyful",
       "highlight": "Learning Journey"
     },
-    "subtitle": "Share your child's details and our admissions team will guide you to the right program and next step.",
+    "subtitle": "Share your details and our team will guide you on the next steps.",
     "image": {
       "src": "/images/admission-page-hero-banner.jpeg",
       "alt": "Children beginning their learning journey at Sanskriti Kindergarten"
     },
     "buttons": {
       "primary": {
-        "text": "Start Admission",
+        "text": "Apply Now",
         "link": "#admission-form"
       },
       "secondary": {
-        "text": "Talk to Admissions"
+        "text": "Call Admissions"
       }
     },
     "stats": [
@@ -45,52 +45,52 @@
       },
       {
         "value": "2012",
-        "label": "Nurturing children since"
+        "label": "Serving families since"
       }
     ]
   },
   "process": {
     "badge": "Simple Process",
-    "title": "Admissions made calm, clear, and personal.",
-    "description": "A clear, parent-friendly process from first enquiry to the right program fit.",
+    "title": "Admissions made clear and personal.",
+    "description": "Parent-friendly admissions: share details, plan a visit, and confirm the right fit.",
     "steps": [
       {
         "icon": "ClipboardList",
         "title": "Share Details",
-        "description": "Tell us about your child, preferred program, and how to reach you."
+        "description": "Tell us about your child and preferred program."
       },
       {
         "icon": "CalendarDays",
         "title": "Plan a Visit",
-        "description": "Schedule a campus visit or admissions call with our team."
+        "description": "Book a campus visit or talk to our admissions team."
       },
       {
         "icon": "UserRoundCheck",
         "title": "Confirm Fit",
-        "description": "We guide you through age fit, documents, and start date."
+        "description": "Review age fit, routines, and a suitable start date."
       }
     ]
   },
   "programs": {
     "badge": "Program Fit",
-    "title": "Choose the path that suits your child.",
-    "description": "Choose from preschool, play school, kindergarten, and daycare with caring teacher support.",
+    "title": "Choose what suits your child.",
+    "description": "We support preschool to kindergarten with warm routines and attentive teachers.",
     "items": [
-      "Play School and Preschool foundations",
+      "Play school and preschool foundations",
       "Kindergarten readiness for ages 4 to 6",
       "Daycare support for working families",
-      "Guided campus visits before enrollment"
+      "Guided campus visit before enrollment"
     ]
   },
   "form": {
     "badge": "Application Form",
-    "title": "Tell us a little about your child.",
-    "description": "Complete the form and our team will contact you about availability, age fit, and your next visit."
+    "title": "Tell us about your child.",
+    "description": "Submit the form and our team will contact you to schedule a visit."
   },
   "closing": {
     "badge": "Need Help?",
-    "title": "Prefer to speak before applying?",
-    "description": "Call us for quick guidance on programs, timings, and admission availability.",
+    "title": "Prefer to speak first?",
+    "description": "Call us for guidance on programs and admissions.",
     "button": {
       "text": "Call Sanskriti"
     }

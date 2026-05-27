@@ -1,12 +1,12 @@
 {
   "metadata": {
     "title": "Preschool in Velachery, Chennai | Sanskriti Kindergarten",
-    "description": "Sanskriti Kindergarten offers a warm preschool in Velachery with play-based learning, daycare support, and convenient access for nearby South Chennai families."
+    "description": "Sanskriti Kindergarten offers a warm preschool in Velachery with play-based learning, daycare support, and easy access for nearby families."
   },
   "hero": {
     "badge": "Velachery Preschool",
     "title": "Preschool in Velachery, Chennai",
-    "description": "A warm preschool in Velachery where children feel secure, curious, and happy to learn.",
+    "description": "We offer a preschool where children feel safe, curious, and happy every day.",
     "image": {
       "src": "/images/preschool-velachery-hero-banner.jpeg",
       "alt": "A warm preschool classroom with children and a teacher playing with blocks in Velachery"
@@ -15,55 +15,59 @@
   "highlights": [
     {
       "title": "Preschool Programs",
-      "description": "Age-appropriate routines that build confidence through play."
+      "description": "Age-appropriate routines to build confidence step by step."
     },
     {
       "title": "Daycare Support",
-      "description": "Warm daycare support with guided activities and caring supervision."
+      "description": "Warm supervised care with a steady daily rhythm."
+    },
+    {
+      "title": "Convenient Location",
+      "description": "Accessible from Velachery, Guindy, and South Chennai."
     }
   ],
   "sections": [
     {
       "eyebrow": "First Visit",
-      "title": "Warm from the first visit",
-      "lead": "Parents usually begin with one question: will my child feel safe, happy, and understood here?",
+      "title": "Warm from day one",
+      "lead": "Ensuring your child feels safe and comfortable from day one.",
       "points": [
-        "A calm start for children who are new to school routines.",
-        "Kind greetings, patient guidance, and reassuring teacher attention.",
-        "Support for trust, expression, friendships, and group participation."
+        "A calm start for new school routines.",
+        "Patient teachers building trust with consistency.",
+        "Supporting expression, friendships, and participation."
       ],
-      "closing": "Each day balances familiar routines, guided play, stories, movement, and hands-on activities."
+      "closing": "Each day blends guided play and hands-on activities in a reassuring routine."
     },
     {
       "eyebrow": "Programs",
       "title": "Learning that fits early childhood",
-      "lead": "A strong preschool program helps children learn through meaningful everyday experiences.",
+      "lead": "Strong learning happens through meaningful experiences, not pressure.",
       "points": [
-        "Play-based learning for language, social growth, attention, and curiosity.",
-        "Listening, speaking, observing, creating, moving, and participating.",
-        "Gentle transitions for daycare support and classroom routine."
+        "Play-based learning for language and social growth.",
+        "Encouraging active listening, speaking, and creating.",
+        "Smooth transitions between classroom and daycare."
       ],
-      "closing": "Families can understand the preschool, play school, kindergarten, and daycare rhythm in one place."
+      "closing": "Our preschool and daycare rhythm in one clear view."
     },
     {
       "eyebrow": "Location",
-      "title": "Convenient for daily family life",
-      "lead": "A practical commute matters because drop-offs, pick-ups, and quick communication shape daily family rhythm.",
+      "title": "Convenient for family routines",
+      "lead": "A practical commute helps with consistent drop-offs and pick-ups.",
       "points": [
-        "Accessible for Velachery families and nearby South Chennai neighborhoods.",
-        "Helpful for parents traveling from Guindy, Adambakkam, Madipakkam, Taramani, Perungudi, Nanganallur, and Saidapet.",
-        "Best understood through a visit, admissions conversation, gallery, and FAQs."
+        "Well located for Velachery and South Chennai.",
+        "Convenient for families in Guindy and neighboring areas.",
+        "Best understood through a campus visit and discussion."
       ],
-      "closing": "The goal is simple: a preschool in Velachery that feels warm, clear, and convenient before the first day."
+      "closing": "A preschool experience that feels warm, clear, and practical."
     }
   ],
   "families": {
     "title": "Families We Commonly Serve",
-    "description": "Our Velachery preschool serves local families first and also supports nearby South Chennai families looking for one consistent early learning environment.",
+    "description": "Our Velachery campus supports local and South Chennai families.",
     "notes": [
       "Velachery-first preschool and daycare support",
-      "Nearby access for Guindy and South Chennai families",
-      "One clear overview for nearby families"
+      "Easy access for Guindy and nearby neighborhoods",
+      "One clear page for local family needs"
     ],
     "areas": [
       "Velachery",
@@ -79,13 +83,13 @@
   "cta": {
     "badge": "Admissions Open",
     "title": "Visit Sanskriti Kindergarten in Velachery",
-    "description": "See the classrooms, understand the daily rhythm, and choose the right preschool or daycare option for your child.",
+    "description": "See our classrooms, understand the daily rhythm, and choose the right start for your child.",
     "image": {
       "src": "/images/preschool-velachery-hero-banner.jpeg",
       "alt": "A warm preschool classroom with children and a teacher playing with blocks in Velachery"
     },
     "primaryAction": {
-      "text": "Book a Visit",
+      "text": "Enquire Now",
       "href": "/contact"
     },
     "secondaryAction": {
